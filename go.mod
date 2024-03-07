@@ -1,4 +1,4 @@
-module changeme
+module forgetmenot
 
 go 1.18
 
